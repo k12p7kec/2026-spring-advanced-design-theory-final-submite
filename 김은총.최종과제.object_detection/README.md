@@ -1,2 +1,2 @@
-[260622_AI반도체설계혁신특론_발표자료_김은총.pdf](https://github.com/user-attachments/files/29190495/260622_AI._._.pdf)
+교수님께서 올려주신 object detection 실험과 FP32 vs int8 비교 실험을 진행했습니다. 
 
